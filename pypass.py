@@ -1,5 +1,6 @@
 """
 This is a module to generate random password of different length for your project
+download this or clone and then from pypass import randompasswordgenerator
 """
 
 import random
